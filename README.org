@@ -1,0 +1,9 @@
+* cl-who
+
+Yet another Lisp markup language
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/edicl/cl-who.git |
+| commit  | 07dafe9                                 |
+| systems | cl-who                                  |
+|---------+-----------------------------------------|
