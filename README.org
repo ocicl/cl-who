@@ -4,6 +4,6 @@ Yet another Lisp markup language
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/edicl/cl-who.git |
-| commit  | 07dafe9                                 |
+| commit  | 7405415                                 |
 | systems | cl-who                                  |
 |---------+-----------------------------------------|
